@@ -42,3 +42,6 @@ Applying random forest algorithm
 Check information gain from each feature
 Feature selection apply
 Re-train random forest
+
+## VIZ - Fifa
+This notebook presents some Seaborn capabilities using the Fifa 2018 dataset
